@@ -1,0 +1,2 @@
+# Analisis-Estadistico-de-las-Emisiones-de-Oxido-Nitroso-en-un-Vehiculo-Diesel-
+Análisis estadístico y modelamiento de regresión lineal de emisiones de óxido nitroso en una camioneta diésel bajo diferentes condiciones ambientales. Incluye análisis exploratorio de datos, pruebas de hipótesis, intervalos de confianza, diagnóstico de regresión y validación de supuestos estadísticos utilizando Python, Pandas, SciPy y Statsmodels.
