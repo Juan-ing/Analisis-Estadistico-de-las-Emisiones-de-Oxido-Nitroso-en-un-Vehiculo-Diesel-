@@ -1,0 +1,12 @@
+# Normalizar finales de línea
+* text=auto
+
+# Forzar LF en notebooks y código
+*.ipynb text eol=lf
+*.py     text eol=lf
+*.md     text eol=lf
+
+# Mantener binarios sin cambios
+*.png    binary
+*.jpg    binary
+*.pdf    binary
